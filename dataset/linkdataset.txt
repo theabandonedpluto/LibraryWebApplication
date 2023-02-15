@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/1SlbaSGahRX2I4fUS_f5agAG8ML-M45Vd?usp=sharing
+
+I set up the link for dataset since it's too large to be uploaded to repository in github.
+Please note, after downloading it, save the library.db in the dataset folder
+because in flask.ipynb the directory is already set up as dataset/library.db
